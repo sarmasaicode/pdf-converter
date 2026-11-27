@@ -6,6 +6,10 @@ A free, offline file converter for Windows and Linux. Drag and drop your file or
 
 ![PDF Converter’da JPG ve TXT dosyaları için dönüşüm seçimi](PDF-Converter-v1.0.1-demo.gif)
 
+Animasyonda önce bir JPG dosyası seçiliyor. Program dosya türünü algılayıp **JPG/PNG → PDF** seçeneğini otomatik seçiyor. Ardından bir TXT dosyası seçiliyor ve program **PDF** ile **Word** seçeneklerini gösteriyor.
+
+The animation first shows a JPG file being selected. The app detects the file type and automatically selects **JPG/PNG → PDF**. Next, a TXT file is selected and the app shows both **PDF** and **Word** options.
+
 ## Özellikler
 
 - Uygulama arayüzü Türkçe ve İngilizceyi destekler.
