@@ -8,6 +8,7 @@ A free, offline file converter for Windows and Linux. Drag and drop your file or
 
 ## Özellikler
 
+- Uygulama arayüzü Türkçe ve İngilizceyi destekler.
 - JPG ve PNG görsellerini PDF’ye dönüştürür. Bu biçimler algılandığında PDF seçeneğini otomatik seçer.
 - TXT dosyalarını PDF’ye veya Word belgesine dönüştürür.
 - Dosyaları sürükle-bırak ile veya dosya seçiciden açar.
@@ -16,6 +17,7 @@ A free, offline file converter for Windows and Linux. Drag and drop your file or
 
 ## Features
 
+- The app interface supports Turkish and English.
 - Converts JPG and PNG images to PDF. When it detects either format, it automatically selects the PDF option.
 - Converts TXT files to PDF or Word documents.
 - Opens files by drag and drop or through the file picker.
